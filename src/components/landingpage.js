@@ -29,7 +29,7 @@ class Landing extends Component
 
       {/* gmail */}
       
-      <a href="/" rel="noopener noreferrer" target="_blank" >
+      <a href="/" rel="noopener noreferrer"  >
       <i class="fa fa-envelope" aria-hidden="true"></i>
       </a>
       
