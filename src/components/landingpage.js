@@ -16,7 +16,7 @@ class Landing extends Component
 
       <div className="social-links">
       {/* linkedin */}
-      <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
+      <a href="https://www.linkedin.com/in/ajish-v-nair-641403182" rel="noopener noreferrer" target="_blank" >
       <i class="fa fa-linkedin-square" aria-hidden="true"></i>
       </a>
 
