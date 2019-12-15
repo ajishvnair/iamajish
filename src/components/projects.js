@@ -20,9 +20,9 @@ class Projects extends Component {
             Handling of Electronic waste through exchange and refurbishment of used items
             </CardText>
             <CardActions border>
-            <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
+            /*<a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
             <i class="fa fa-github" aria-hidden="true"></i>
-            </a>
+            </a>*/
 
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
