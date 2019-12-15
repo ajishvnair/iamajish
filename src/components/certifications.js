@@ -17,7 +17,7 @@ class Certification extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://blog.paessler.com/hubfs/considerations-when-choosing-database-management-system.png) center / cover'}} >D B M S</CardTitle>
             <CardText>
-              Oracle | 2019
+              Oracle | 2017
             </CardText>
 
             <CardMenu style={{color: '#fff'}}>
