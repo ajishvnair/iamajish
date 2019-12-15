@@ -20,9 +20,9 @@ class Certification extends Component {
               Oracle | 2017
             </CardText>
 
-            <CardMenu style={{color: '#fff'}}>
+        {/*<CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
-            </CardMenu>
+            </CardMenu>*/}
           </Card>
           {/* Project 2 */}
           
