@@ -24,7 +24,7 @@ class Certification extends Component {
               <IconButton name="share" />
             </CardMenu>
           </Card>
-          {/* Project 2 */}
+          
            <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://blog.paessler.com/hubfs/considerations-when-choosing-database-management-system.png) center / cover'}} >D B M S</CardTitle>
             <CardText>
