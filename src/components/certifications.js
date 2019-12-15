@@ -32,9 +32,9 @@ class Certification extends Component {
               Udemy | 2019
             </CardText>
 
-            <CardMenu style={{color: '#fff'}}>
+        {/*<CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
-            </CardMenu>
+            </CardMenu>*/}
           </Card>
         
         
