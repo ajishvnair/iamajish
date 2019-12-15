@@ -25,7 +25,19 @@ class Certification extends Component {
             </CardMenu>
           </Card>
           {/* Project 2 */}
+          
+          <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://miro.medium.com/max/5120/1*ve-E-lXoo8D7uDYok4VYAA.png) center / cover'}} >Git + GitHub</CardTitle>
+            <CardText>
+              Udemy | 2019
+            </CardText>
 
+            <CardMenu style={{color: '#fff'}}>
+              <IconButton name="share" />
+            </CardMenu>
+          </Card>
+        
+        
         </div>
       )
     }
