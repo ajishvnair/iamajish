@@ -60,9 +60,9 @@ class Projects extends Component {
               A smart vechile that controlls it's speed by sensing traffic lights
             </CardText>
             <CardActions border>
-            <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
+            {/*<a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
             <i class="fa fa-github" aria-hidden="true"></i>
-            </a>
+            </a>*/
 
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
@@ -83,9 +83,9 @@ class Projects extends Component {
 
             </CardText>
             <CardActions border>
-            <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
+            {/*<a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
             <i class="fa fa-github" aria-hidden="true"></i>
-            </a>
+            </a>*/}
 
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
