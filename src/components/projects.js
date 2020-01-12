@@ -15,7 +15,7 @@ class Projects extends Component {
         <div className="projects-grid">
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://nerdgeeklab.com/images/php-image.png)'}} >Resale </CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)'}} >Resale </CardTitle>
             <CardText>
             Handling of Electronic waste through exchange and refurbishment of used items
             </CardText>
@@ -31,7 +31,7 @@ class Projects extends Component {
           </Card>
           {/* Project 2 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://nerdgeeklab.com/images/php-image.png)'}} >Around the World</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)'}} >Around the World</CardTitle>
             <CardText>
             A Web Based System where, user can read news and share Funny things.
             </CardText>
