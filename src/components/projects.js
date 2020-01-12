@@ -78,7 +78,7 @@ class Projects extends Component {
         <div className="projects-grid">
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://nerdgeeklab.com/images/php-image.png)'}} >My portfolio</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)'}} >My portfolio</CardTitle>
             <CardText>
 
             </CardText>
