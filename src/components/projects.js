@@ -92,6 +92,12 @@ class Projects extends Component {
               <IconButton name="share" />
             </CardMenu>
           </Card>
+          <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)'}} >BUKS CC Currency Converter</CardTitle>
+            <CardText>
+            A shopify store app
+            </CardText>
+          </Card>
           </div>
 
       )
