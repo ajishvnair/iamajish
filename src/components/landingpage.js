@@ -12,7 +12,7 @@ class Landing extends Component
       <h1>Full Stack Web Developer</h1>
 
       <hr/>
-      <p>HTML/CSS | PHP | React Native | C | C++ | Python | Javascript </p>
+      <p>React js | JSX | Sass | HTML | Node | HTML | Core PHP </p>
 
       <div className="social-links">
       {/* linkedin */}
