@@ -10,7 +10,7 @@ class Projects extends Component {
 
   toggleCategories() {
 
-    if(this.state.activeTab === 0){
+    if(this.state.activeTab === 3){
       return(
         <div className="projects-grid">
           {/* Project 1 */}
@@ -72,7 +72,7 @@ class Projects extends Component {
           </div>
 
       )
-    } else if(this.state.activeTab === 2) {
+    } else if(this.state.activeTab === 0) {
       return (
 
         <div className="projects-grid">
@@ -107,9 +107,9 @@ class Projects extends Component {
     return(
       <div>
         <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
-          <Tab>PHP</Tab>
+        <Tab>React</Tab>
           <Tab>Python</Tab>
-          <Tab>React</Tab>
+          <Tab>PHP</Tab>
 
         </Tabs>
           <Grid>
