@@ -123,13 +123,19 @@ class Projects extends Component {
                   "url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)",
               }}
             >
-              My portfolio
+              UFE (Upsell Funnel Engine)
             </CardTitle>
-            <CardText></CardText>
+            <CardText> A shpify store upsell App</CardText>
             <CardActions border>
-              {/*<a href="https://www.google.com/" rel="noopener noreferrer" target="_blank" >
-            <i class="fa fa-github" aria-hidden="true"></i>
-            </a>*/}
+              
+              <a
+                    href="https://apps.shopify.com/upsell-funnel-engine-upsells?surface_detail=upsell+funnel&surface_inter_position=1&surface_intra_position=5&surface_type=search"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                  </a>
+          
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
@@ -144,9 +150,20 @@ class Projects extends Component {
                   "url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)",
               }}
             >
-              BUKS CC Currency Converter
+             BUCKS Currency Converter
             </CardTitle>
             <CardText>A shopify store app</CardText>
+            <CardActions border>
+              
+              <a
+                    href="https://apps.shopify.com/bucks-currency-converter#modal-show=ReviewListingModal"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                  </a>
+          
+            </CardActions>
           </Card>
         </div>
       );
