@@ -58,7 +58,7 @@ class Projects extends Component {
                   "url(http://gattsystems.com/blog/wp-content/uploads/2017/08/PHP-DEVELOPMENT-Brillmindz.jpg)",
               }}
             >
-              Around the World
+              Around the World 
             </CardTitle>
             <CardText>
               A Web Based System where, user can read news and share Funny
